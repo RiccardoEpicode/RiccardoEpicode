@@ -28,7 +28,7 @@ Quell’esperienza ha lasciato un’impronta forte in me, sia come professionist
 
 https://img.shields.io/badge/c%2523-%2523239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 
-# <h1>📊 Statistiche GitHub :</h1>
+<H1>📊 Statistiche GitHub :</H1> 
 ![C#](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalCad91&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=true&layout=compact) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ---
