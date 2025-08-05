@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 15px;">
-  <img src="./images/hello-world.png" alt="Hello World" style="height: 60px; margin-top: 8px;" />
-  <h1 style="margin: 0; padding: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1>
+  <div><img src="./images/hello-world.png" alt="Hello World" style="height: 60px; margin-top: 8px;" /></div>
+  <div><h1 style="margin: 0; padding: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1></div>  
 </div>
 
 
