@@ -1,9 +1,8 @@
-<div style="text-align: center;">
-  <img src="./images/hello-world.png" alt="Ciao Mondo" style="width: 120px; display: block; margin: 0 auto;" />
-  <h1 style="margin-top: 10px;">
-    👋 Ciao e benvenuto sulla mia pagina GitHub!
-  </h1>
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
+  <h1 style="margin: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1>
 </div>
+
 <p>Ciao! Mi chiamo <strong>Riccardo</strong>, sono nato in 🇮🇹 <img src="./images/italy.png" width="25" alt="Bandiera italiana">  e oggi vivo a <strong>Roma</strong>, anche se il mio percorso mi ha portato a viaggiare e vivere in diversi Paesi del mondo 🌍. </p>
 
 <p> A 20 anni ho iniziato a girare per il mondo, fino a stabilirmi in <strong>Canada</strong>, dove ho avuto l'opportunità di diventare cittadino e costruire una nuova vita.  
