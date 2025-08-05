@@ -4,10 +4,7 @@
     👋 Ciao e benvenuto sulla mia pagina GitHub!
   </h1>
 </div>
-<h2> Chi sono</h2>
 <p>Ciao! Mi chiamo <strong>Riccardo</strong>, sono nato in 🇮🇹 <img src="./images/italy.png" width="25" alt="Bandiera italiana">  e oggi vivo a <strong>Roma</strong>, anche se il mio percorso mi ha portato a viaggiare e vivere in diversi Paesi del mondo 🌍. </p>
-
-<hr>
 
 <p> A 20 anni ho iniziato a girare per il mondo, fino a stabilirmi in <strong>Canada</strong>, dove ho avuto l'opportunità di diventare cittadino e costruire una nuova vita.  
 È proprio lì che ho scoperto e coltivato la mia passione per la tecnologia, <strong>laureandomi in Software Engineering al Centennial College di Toronto</strong>.  
