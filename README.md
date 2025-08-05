@@ -4,17 +4,14 @@
     👋 Ciao e benvenuto sulla mia pagina GitHub!
   </h1>
 </div>
-<h2>💫 Chi sono</h2>
+<h2> Chi sono</h2>
 <p>Ciao! Mi chiamo <strong>Riccardo</strong>, sono nato in 🇮🇹 <img src="./images/italy.png" width="25" alt="Bandiera italiana">  e oggi vivo a <strong>Roma</strong>, anche se il mio percorso mi ha portato a viaggiare e vivere in diversi Paesi del mondo 🌍. </p>
 
 <hr>
 
-<p>🧭 A 20 anni ho iniziato a girare per il mondo, fino a stabilirmi in <strong>Canada</strong>, dove ho avuto l'opportunità di diventare cittadino e costruire una nuova vita.  
-È proprio lì che ho coltivato la mia passione per la tecnologia, <strong>laureandomi in Software Engineering al Centennial College di Toronto</strong>.<br>  
-Quell’esperienza ha lasciato un’impronta forte in me, sia come professionista che come persona.
-</p>
-
-<p>🎯 Dopo quasi tre anni lontano dal settore tech — per ragioni lavorative ed economiche — ho deciso di  <strong>riprendere in mano il mio percorso</strong>.<br> Oggi sto frequentando un corso di <strong>reskilling intensivo con Epicode</strong>, per aggiornare le mie competenze e rientrare nel settore che più mi appassiona.</p>
+<p> A 20 anni ho iniziato a girare per il mondo, fino a stabilirmi in <strong>Canada</strong>, dove ho avuto l'opportunità di diventare cittadino e costruire una nuova vita.  
+È proprio lì che ho scoperto e coltivato la mia passione per la tecnologia, <strong>laureandomi in Software Engineering al Centennial College di Toronto</strong>.  
+Dopo aver percorso strade diverse, oggi ho scelto di tornare alle origini e dare finalmente voce a ciò che mi appassiona davvero: sto seguendo un <strong>corso intensivo di reskilling con Epicode</strong>, con l’obiettivo di costruire la mia carriera nello sviluppo web.</p>
 
 <h2>👨‍💻 I miei progetti</h2>
 
