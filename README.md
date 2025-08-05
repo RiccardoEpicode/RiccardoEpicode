@@ -1,17 +1,3 @@
-display: inline-block; /* INLINE-BLOCK FUNZIONA SOLO SE APPLICATO ALLE DIV SPECIFICHE CHE DEVONO ESSERE AFFIANCATE, NON PUÒ ESSERE USATO SU DIV CONTENITORI ESTERNI */
-  width: 25%;
-  height: 200px;
-  
-  min-height: 300px; /* NECESARIO UN MIN HEIGHT PER FAR SI CHE I DUE CONTENITORI SIANO ALMENO DELLE STESSE DIMENSIONI */
-  /* SENZA VERTICAL-ALIGN, LE DIFFERENZE DI CONTENUTO TRA I DUE BOX (AD ESEMPIO PIU TESTO IN UNO CHE NON IN UN ALTRO), POTREBBERO FAR SALIRE O SCENDERE UNO RISPETTO ALL'ALTRO IN ALTEZZA */
-  /* PROVA A COMMENTARE VERTICAL - ALIGN PER VEDERE LA DIFFERENZA */
-  color: dodgerblue;
-  text-align: center;
-  overflow: auto; /* PER EVITARE CHE IL TESTO IN ECCESSO VADA OLTRE LA BOX OPPURE CHE NON VENGA MESSO IN DISPLAY SI USA OVERFLOW CHE CREA UNA SCROLLBAR */
-  border-radius: 40px; /* 50%; RENDE LE SCATOLE ROTONDE */
-  line-height: 30px;
-
-
 <div style="text-align: center; font-size: 0; box-sizing: border-box;">
   <div style="display: inline-block; width: 50%; margin-left: -4px;  vertical-align: top;">
     <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
