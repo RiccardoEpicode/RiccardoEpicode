@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-  <h1 style="margin-left: 10px;">
-    <img src="./images/hello-world.png" alt="Ciao Mondo" style="vertical-align: middle;">
-    👋 Ciao e benvenuto sulla mia pagina GitHub!
+  <h1 style="margin-left: 10px; vertical-align: middle;">
+    <img src="./images/hello-world.png" alt="Ciao Mondo" style=""> 👋 Ciao e benvenuto sulla mia pagina GitHub!
   </h1>
 </div>
 
