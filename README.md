@@ -1,8 +1,8 @@
 <div style="text-align: center; font-size: 0; box-sizing: border-box;">
-  <div style="display: inline-block; width: 50%; margin-left: -4px;  vertical-align: top;">
+  <div style="display: inline-block; width: 50%; margin-left: -4px;">
     <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
   </div>
-  <div style="display: inline-block;  width: 50%; margin-left: -4px;  vertical-align: top; margin-left: 15px; font-size: 16px;">
+  <div style="display: inline-block;  width: 50%; margin-left: -4px;  vertical-align: middle; margin-left: 15px; font-size: 16px;">
     <h1 style="margin: 0; padding: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1>
   </div>
 </div>
