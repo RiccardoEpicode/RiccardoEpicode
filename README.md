@@ -1,8 +1,11 @@
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 15px;">
-  <div><img src="./images/hello-world.png" alt="Hello World" style="height: 60px; margin-top: 8px;" /></div>
-  <div><h1 style="margin: 0; padding: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1></div>  
+<div style="text-align: center; font-size: 0; box-sizing: border-box;">
+  <div style="display: inline-block; vertical-align: middle; ">
+    <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
+  </div>
+  <div style="display: inline-block; vertical-align: middle; margin-left: 15px; font-size: 16px;">
+    <h1 style="margin: 0; padding: 0;">👋 Ciao e benvenuto sulla mia pagina GitHub!</h1>
+  </div>
 </div>
-
 
 <p>Ciao! Mi chiamo <strong>Riccardo</strong>, sono nato in 🇮🇹 <img src="./images/italy.png" width="20 px" heigth="20px" alt="Bandiera italiana">  e oggi vivo a <strong>Roma</strong>, anche se il mio percorso mi ha portato a viaggiare e vivere in diversi Paesi del mondo 🌍. </p>
 
