@@ -30,7 +30,7 @@ Quell’esperienza ha lasciato un’impronta forte in me, sia come professionist
 
 
 # 📊 Statistiche GitHub :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalCad91&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoEpicode&layout=compact&theme=solarized-light) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ItalCad91&icon=0&color=0)](https://visitcount.itsvg.in)
