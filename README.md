@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  <h1 style="margin: 0; vertical-align: middle;">  <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
+  <h1 style="margin: 0; vertical-align: top;">  <img src="./images/hello-world.png" alt="Hello World" style="height: 60px;" />
 👋 Ciao e benvenuto sulla mia pagina GitHub!</h1>
 </div>
 
