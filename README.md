@@ -14,7 +14,10 @@ Dopo aver percorso strade diverse, oggi ho scelto di tornare alle origini e dare
 
 Un momento speciale: la mia cerimonia di graduazione al **Centennial College di Toronto** 🎉
 
-[▶️ Guarda il video della mia graduazione](./Graduation.mp4)
+[![Guarda uno snapshot su YouTube](https://img.youtube.com/vi/L5hDlPDlC5A/maxresdefault.jpg)](https://www.youtube.com/watch?v=L5hDlPDlC5A)
+
+[![Guarda il video completo](https://img.youtube.com/vi/L5hDlPDlC5A/maxresdefault.jpg)](https://mediasite.centennialcollege.ca/Mediasite/Play/bc83ece7f5a74937a33edf7149b970341d)
+
 
 <h2>👨‍💻 I miei progetti</h2>
 
