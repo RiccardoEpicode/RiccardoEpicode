@@ -10,6 +10,12 @@
 È proprio lì che ho scoperto e coltivato la mia passione per la tecnologia, <strong>laureandomi in Software Engineering al Centennial College di Toronto</strong>.  
 Dopo aver percorso strade diverse, oggi ho scelto di tornare alle origini e dare finalmente voce a ciò che mi appassiona davvero: sto seguendo un <strong>corso intensivo di reskilling con Epicode</strong>, con l’obiettivo di costruire la mia carriera nello sviluppo web.</p>
 
+## 🎓 La mia laurea al Centennial College
+
+Un momento speciale: la mia cerimonia di graduazione al **Centennial College di Toronto** 🎉
+
+[▶️ Guarda il video della mia graduazione](./Graduation.mp4)
+
 <h2>👨‍💻 I miei progetti</h2>
 
 <p>  Puoi dare un’occhiata ai miei lavori e progetti personali qui:<br> 🔗 <strong><a href="http://tinyurl.com/RRsystemPortfolio" target="_blank">Visita il mio portfolio</a></strong></p>
