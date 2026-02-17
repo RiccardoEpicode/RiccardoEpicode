@@ -21,7 +21,7 @@ Un momento speciale: la mia cerimonia di graduazione al **Centennial College di 
 
 <h2>👨‍💻 I miei progetti</h2>
 
-<p>  Puoi dare un’occhiata ai miei lavori e progetti personali qui:<br> 🔗 <strong><a href="http://tinyurl.com/RRsystemPortfolio" target="_blank">Visita il mio portfolio</a></strong></p>
+<p>  Puoi dare un’occhiata ai miei lavori e progetti personali qui:<br> 🔗 <strong><a href="https://realiriccardo.com" target="_blank">Visita il mio portfolio</a></strong></p>
 
 <h2>📫 Contatti</h2>
 
